@@ -1,0 +1,2 @@
+AI was mostly used in the making of the report in helping fix wording.
+Code was mostly based on GeeksforGeeks implementation and fitting the requirements of the assignment. 
